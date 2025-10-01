@@ -1,4 +1,4 @@
-# 📌 Gerenciador de Tarefas Colaborativo (Estilo Trello)
+# Gerenciador de Tarefas Colaborativo (Estilo Trello)
 
 Gerenciador de tarefas colaborativo em tempo real, inspirado no **Trello**, desenvolvido com **Node.js, Express, MongoDB, Socket.IO (backend)** e **React + Vite + Socket.IO Client (frontend)**.
 
@@ -6,7 +6,7 @@ Permite criar **boards, listas e cards**, com **atualizações instantâneas via
 
 ---
 
-## 🏗️ Arquitetura
+## Arquitetura
 
 ```text
           ┌───────────────────────────┐
@@ -33,7 +33,7 @@ Permite criar **boards, listas e cards**, com **atualizações instantâneas via
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Backend:** Node.js, Express, MongoDB, Mongoose, Socket.IO
 * **Frontend:** React, Vite, Axios, Socket.IO Client
@@ -41,7 +41,7 @@ Permite criar **boards, listas e cards**, com **atualizações instantâneas via
 
 ---
 
-## ⚙️ Como rodar o projeto
+## Como rodar o projeto
 
 ### 1. Clone o repositório
 
@@ -80,11 +80,11 @@ npm run dev
 ```
 
 O frontend ficará disponível em:
-👉 `http://localhost:5173`
+`http://localhost:5173`
 
 ---
 
-## 📖 Modo de Uso
+## Modo de Uso
 
 1. Abra o frontend no navegador.
 2. Crie um novo **Board** (projeto).
