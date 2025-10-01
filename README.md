@@ -1,7 +1,3 @@
-Aqui está um **README.md unificado e detalhado** para o projeto (backend + frontend + arquitetura + instruções):
-
----
-
 # 📌 Gerenciador de Tarefas Colaborativo (Estilo Trello)
 
 Gerenciador de tarefas colaborativo em tempo real, inspirado no **Trello**, desenvolvido com **Node.js, Express, MongoDB, Socket.IO (backend)** e **React + Vite + Socket.IO Client (frontend)**.
