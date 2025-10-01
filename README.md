@@ -91,29 +91,3 @@ O frontend ficará disponível em:
 3. Dentro do board, adicione **listas** (etapas, ex: To Do, Doing, Done).
 4. Em cada lista, adicione **cards** (tarefas).
 5. As alterações são **sincronizadas em tempo real** entre todos os usuários conectados.
-
----
-
-## 🖼️ Prints & Documentação
-
-* Adicione prints da aplicação em:
-
-  ```
-  docs/screenshots/
-  ```
-
-Exemplo:
-
-```
-docs/screenshots/home.png
-docs/screenshots/board.png
-```
-
----
-
-## 📌 Melhorias Futuras
-
-* Autenticação de usuários.
-* Permissões por board.
-* Drag & Drop com persistência no banco.
-* Notificações em tempo real.
