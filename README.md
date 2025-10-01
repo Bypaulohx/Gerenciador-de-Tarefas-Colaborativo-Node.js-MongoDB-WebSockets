@@ -117,11 +117,3 @@ docs/screenshots/board.png
 * Permissões por board.
 * Drag & Drop com persistência no banco.
 * Notificações em tempo real.
-
----
-
-📢 Projeto criado para aprendizado de **arquitetura fullstack + WebSockets**.
-
----
-
-Quer que eu já gere esse **README.md** dentro do mesmo `.zip` do projeto que você baixou (com o front/back juntos)?
